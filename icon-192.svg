@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" fill="#1B2D5B" rx="24"/>
+  <circle cx="96" cy="76" r="42" fill="#F6C026"/>
+  <text x="96" y="93" font-family="Arial,sans-serif" font-size="60" font-weight="900" text-anchor="middle" fill="#1B2D5B">N</text>
+  <text x="96" y="150" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#F6C026">ARRECADA</text>
+  <text x="96" y="175" font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#F6C026">NABEM</text>
+</svg>
